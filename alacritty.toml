@@ -1,0 +1,23 @@
+[window]
+padding.x = 10
+padding.y = 10
+dimensions.columns = 200
+dimensions.lines = 44
+position.x = 200
+position.y = 300
+
+opacity = 0.95
+blur = true
+
+[scrolling]
+multiplier = 3
+
+[font]
+normal.family = "JetBrainsMono Nerd Font Mono"
+size = 14
+
+[keyboard]
+bindings = [
+  { key = "Right", mods = "Alt", chars = "\u001BF" },
+  { key = "Left",  mods = "Alt", chars = "\u001BB" },
+]
